@@ -1,3 +1,5 @@
-# first-project
+# First Project - Customer Segmentation! 
 
-Let's start!
+Objective: Understanding the natural groups, and how different things might affect them!
+
+1st taks: Getting the data!
